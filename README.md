@@ -1,2 +1,2 @@
 # ngs-map
-Team Fortress 2 map for the Neogenesis Trade server.
+Team Fortress 2 map for the [Neogenesis Trade](http://steamcommunity.com/groups/NeogenesisTrade) server.
